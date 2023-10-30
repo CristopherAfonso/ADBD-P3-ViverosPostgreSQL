@@ -26,6 +26,13 @@ Debe generar un script SQL para PostgreSQL con las siguientes características:
 ### Imagen del Modelo Entidad-Relación de los viveros
 ![](https://github.com/CristopherAfonso/ADBD-P3-ViverosPostgreSQL/blob/main/images/ModeloEntidadRelacion.jpg)
 
-- Imágenes del diseño relacional realizado
+### Imágenes del diseño relacional realizado
+#### Diseño Relacional Hecho Digital
+![](https://github.com/CristopherAfonso/ADBD-P3-ViverosPostgreSQL/blob/main/images/Dise%C3%B1oRelacionalDigital.jpeg)
+#### Diseño Relacional A Mano
+![](https://github.com/CristopherAfonso/ADBD-P3-ViverosPostgreSQL/blob/main/images/Dise%C3%B1oRelacionalTablas.jpeg)
+![](https://github.com/CristopherAfonso/ADBD-P3-ViverosPostgreSQL/blob/main/images/Dise%C3%B1oRelacionalFilas.jpeg)
 
-- Imagen con la salida de un **SELECT** de cada tabla de la base de datos
+### Imágenes con la salida de un **SELECT** de cada tabla de la base de datos
+![](https://github.com/CristopherAfonso/ADBD-P3-ViverosPostgreSQL/blob/main/images/Tablas1_5.png)
+![](https://github.com/CristopherAfonso/ADBD-P3-ViverosPostgreSQL/blob/main/images/Tablas6_10.png)
