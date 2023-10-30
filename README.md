@@ -23,8 +23,8 @@ Debe generar un script SQL para PostgreSQL con las siguientes características:
 - [PostgreSQL](https://www.postgresql.org/)
 - [Draw.io](https://www.drawio.com/)
 ## Entrega
-- Imagen del Modelo Entidad-Relación de los viveros empleado
+![Imagen del Modelo Entidad-Relación de los viveros empleado](https://github.com/CristopherAfonso/ADBD-P3-ViverosPostgreSQL/blob/main/images/ModeloEntidadRelacion.jpg)
 
-- Imagen del diseño relacional realizado
+- Imágenes del diseño relacional realizado
 
 - Imagen con la salida de un **SELECT** de cada tabla de la base de datos
