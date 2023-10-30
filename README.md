@@ -2,7 +2,7 @@
 ## Práctica 3 - Viveros (Modelo Relacional, PostgreSQL)
 ## Autores
 - Cristopher Manuel Afonso Mora (alu0101402031@ull.edu.es)
-- Laura Del Mar Jeréz Ramiréz (alu0101688619@ull.edu.es)
+- Laura Del Mar Jerez Ramirez (alu0101688619@ull.edu.es)
 ## Enunciado de la Práctica
 ### Objetivos
 Los principales objetivos de esta práctica son los siguientes:
